@@ -6,4 +6,4 @@ This is the first project I started in my 10th grade year.  We went out as a gro
 
 ### Camera Effects
 
-![filter](untitled(3).png?raw=true "Optional Title")
+![filter](untitled (3).png?raw=true "Optional Title")
